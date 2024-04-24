@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Junwoo Ban"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **writer** and my major is Economics and Financial Engineering."
+  bio              : "I am a **writer**."  "and my major is Economics."
   location         : "Seoul, Korea"
   email            : "ban2585@korea.ac.kr"
   links:          
