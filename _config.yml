@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "**Good mind**"
+title                    : "Good mind"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Junwoo Ban"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "**Junwoo Ban**"
+  name             : "Junwoo Ban"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **writer**."
+  bio              : "I am a **writer** and my major is Economics and Financial Engineering."
   location         : "Seoul, Korea"
   email            : "ban2585@korea.ac.kr"
   links:          
