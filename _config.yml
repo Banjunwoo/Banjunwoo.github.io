@@ -106,14 +106,14 @@ analytics:
 author:
   name             : "Junwoo Ban"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **writer**. 
+  bio              : "I am a **writer**.
   My major is Economics."
   location         : "Seoul, Korea"
   email            : "ban2585@korea.ac.kr"
-  links:          
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "ban2585@korea.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,10 +125,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/Banjunwoo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://www.instagram.com/banjunwoo/"
 
 # Site Footer
 footer:
