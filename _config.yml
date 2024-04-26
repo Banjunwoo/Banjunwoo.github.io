@@ -114,6 +114,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "ban2585@korea.ac.kr"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Banjunwoo"
     - label: "Instagram"
