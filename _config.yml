@@ -113,22 +113,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "ban2585@korea.ac.kr"
+      url: "ban2585@korea.ac.kr"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Banjunwoo"
+      url: "https://github.com/Banjunwoo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/banjunwoo/"
+      url: "https://www.instagram.com/banjunwoo/"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Banjunwoo"
+      url: "https://github.com/Banjunwoo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/banjunwoo/"
+      url: "https://www.instagram.com/banjunwoo/"
 
 
 # Reading Files
