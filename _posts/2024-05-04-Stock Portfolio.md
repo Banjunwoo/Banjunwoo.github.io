@@ -1,3 +1,9 @@
+---
+use_math: true
+layout: single
+---
+
+
 $$
 R_{p,t}=w_1R_{1,t}+w_2R_{1,t}
 $$
@@ -10,6 +16,7 @@ $\bar{R_{p}}= w_{1}\bar{R_1}+w_{2}\bar{{R_1}}$
 
 고든's Rule
 $$P_0=\frac{D_1}{(r-g)}$$
+
 
 ### Sample Variacne
 
