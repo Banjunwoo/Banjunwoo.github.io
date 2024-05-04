@@ -15,7 +15,7 @@ $$\frac{D_1}{(r-g)}$$
 
 숫자가 100개가 있는데 랜덤하게 10개씩, 제곱합 하고 나누기 10 하면은 안 되고 나누기 9를 해야 모분산에 비슷하다.
 
-$$ s^2=\dfrac{\sum\limits^n_{i=1}(x_{i}-x)^2}{n-1}$$
+$$ s^2=\dfrac{\sum\limits^n_{i=1}(x_i-x)^2}{n-1}$$
 > note that Sample Standard deviation = s
 
 평균절대편차 < S
@@ -26,7 +26,7 @@ $$
 V(X)=E(X^2)-(E(X))^2
 $$
 $$
-\sum\limits^n_{i=1}(X_i-\bar{{X})}^{2}=E(X^2)-n\bar{X}^2
+\sum\limits^n_{i=1}(X_i-\bar{X}^{2})=E(X^2)-n\bar{X}^2
 $$
 
 ## Correlation Coefficients
