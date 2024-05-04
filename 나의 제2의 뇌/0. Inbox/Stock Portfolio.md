@@ -31,7 +31,7 @@ $$
 
 ## Correlation Coefficients
 $$
-\rho=\dfrac{\sum\limits^n_{i=1}(X_i-\bar{{X})}(Y_i-\bar{{Y})}}{(n-1)s_xs_y}
+\rho=\dfrac{\sum\limits^n_{i=1}(X_i-\bar{X})(Y_i-\bar{Y})}{(n-1)s_xs_y}
 $$
 $$
 $$
