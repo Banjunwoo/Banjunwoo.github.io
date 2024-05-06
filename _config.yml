@@ -271,3 +271,6 @@ defaults:
       share: true
       related: true
       show_date: true
+
+ # Math equation
+     markdown: kramdown
