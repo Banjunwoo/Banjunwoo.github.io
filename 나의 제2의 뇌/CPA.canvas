@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"fe592d2c977ba54d","type":"group","x":80,"y":-300,"width":290,"height":278,"label":"회계"},
-		{"id":"cb1364ddd7876b82","type":"text","text":"재무회계","x":100,"y":-280,"width":250,"height":60,"color":"1"},
 		{"id":"243577c8e3f25762","type":"text","text":"원가관리회계","x":100,"y":-200,"width":250,"height":60,"color":"4"},
 		{"id":"007acd3655721196","type":"text","text":"고급회계","x":100,"y":-110,"width":250,"height":60,"color":"6"},
-		{"id":"94315a06f801e38c","type":"text","text":"CPA 공부","x":-440,"y":-200,"width":250,"height":60}
+		{"id":"94315a06f801e38c","type":"text","text":"CPA 공부","x":-440,"y":-200,"width":250,"height":60},
+		{"id":"cb1364ddd7876b82","type":"text","text":"재무회계","x":100,"y":-280,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[]
 }
