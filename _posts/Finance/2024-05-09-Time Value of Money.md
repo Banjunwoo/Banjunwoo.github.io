@@ -2,6 +2,8 @@
 layout: single
 use_math: true
 title: Time Value
+categories:
+  - Finance
 ---
 ### 날짜: 2024-05-09 01:18
 
