@@ -27,9 +27,70 @@ $$투자의 \ 한계수익률 \ k > 이자율 \ i$$
 반면, 투자자는 같은 돈을 받아서, 이자율보다 높은 투자의 한계수익률을 만들어낼 수 없는 사람들이 어쩔 수 없이 선택하는 선택지이기도 하다. 만약 투자자가 더 높은 이자율을 만들어내고 싶다면 우리는 불확실성이라는 위험프리미엄을 견뎌내야만 한다. 아니면, 더 오랜 시간을 투자하는 방법이 있다. 72의 법칙은 이자율이 10%인 경우 약 7년이 경과하면, 미래가치가 2배가 되고, 15%의 경우에는 약 5년의 시간이 있어야 원금의 2배가 된다. 아마도, 7년의 가치에 대해 사람들이 생각하는 정도는 다를 것이다. 가치를 2배로 만들기 위한 과정에서 이자율 $i$% 와 시간 $n$년간의 Trade-off 관계를 표현하면 다음과 같다.
 $$i \times n = 72 $$
 
+### 금리
+- 기간별 실이율
+$$
+FV= PV\times (1+r)^n
+$$
+- 연이율 APR(Annual Percentage Rate) => 기간별 실이율
+$$
+r_{m}= \dfrac{APR}{m}
+$$
+- 유효이자율 EAR (Effective Annual Rate)
+- m -> limits
+- n년, m회
+$$
+r_{e}=EAR=(1+\dfrac{APR}{m})^m-1=e^{APR}-1
+$$
+$$
+FV=lim_{m->\infty} PV(1+\dfrac rm)^{m^{n}} = PV\cdot e^{rn}
+$$
 
 
+### 채권
+#### 영구연금
+$$
+PV_A(perpetuity) = \dfrac Cr
+$$
+#### 연금의 현가 이자요소, PVFA(r,n)
+- 1년 후부터 매년 1원씩 n년간 받는 연금의 현가
+$$
+PV(Annuity)=PV_A-PV_B=C\cdot[\dfrac1r-\dfrac1{r(1+r)^n}]
+$$
+#### 연금의 미래가치요소, FVPA(r,n))
+$$
+FV(Annuity)=C\cdot[\dfrac1r-\dfrac1{r(1+r)^n}]\cdot(1+r)^n
+$$
+#### 채권가격
+$$
+PV(bond) = \dfrac Cr[1-\dfrac1{(1+r)^n}]+\dfrac{FV}{(1+r)^n}
+$$
+### YTM
+$$
+YTM = \dfrac{FV}{PV}^{\dfrac1n}-1
+$$
+### 채권가격변동률 
+- 채권 가격 $B$
+- 연간복리계산횟수 $m$
 
+$$
+\dfrac{\Delta B}{B} =\dfrac D{(1+\dfrac rm)}\Delta r
+$$
+### 수정된 듀레이션
+
+$$
+\dfrac{\Delta B}{B} =\dfrac D{(1+\dfrac rm)}\Delta r = D_{m}\Delta R
+$$
+
+$$
+D_m=\dfrac{D}{(1+\dfrac rm)}
+$$
+
+### 주가
+
+$$
+P_{0}= \dfrac{d_{1}}{(r-g)}
+$$
 ### 출처(참고문헌):
 - 재무관리1_이영우
 
