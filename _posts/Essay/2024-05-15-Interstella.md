@@ -3,6 +3,7 @@ layout: single
 title: Motivation
 categories:
   - Essay
+use_math: false
 ---
 ### 날짜: 2024-05-15 07:42
 
