@@ -1,5 +1,5 @@
 ---
-layout: " single"
+layout: single
 title: 선물
 toc: true
 use_math: true
