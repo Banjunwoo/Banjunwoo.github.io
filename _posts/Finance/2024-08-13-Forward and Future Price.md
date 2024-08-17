@@ -112,7 +112,7 @@ $$
 여기를 하기전에 Known Income 이라는 개념을 알아야 한다. 
 
 
-![예시 이미지](Banjunwoo.github.io/images/Fantasy.webp)
+![예시 이미지](/{{site.url}}/images/Fantasy.webp)
 
 
 
