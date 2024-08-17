@@ -29,7 +29,8 @@ $$
 > [!example]- Greeks
 > Fo=선물가격
 > S0=현물가격
-> e^rt = 현재가치계수
+> e^rt = r과 t에 따른 시간계수
+> 이자율과 시간에 따라 선물 가격이 지수적으로 증가함에 주목하라.
 
 $$
 F_0>S_0e^{rT}
@@ -112,7 +113,7 @@ $$
 여기를 하기전에 Known Income 이라는 개념을 알아야 한다. 
 
 
-![예시 이미지](/{{site.url}}/images/Fantasy.webp)
+![예시 이미지](/banjunwoo.github.io/images/Fantasy.webp)
 
 
 
